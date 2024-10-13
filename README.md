@@ -1,3 +1,3 @@
 # BookBot
 
-BookBot is a simple project for Boot.dev!
+BookBot is a my first project for Boot.dev!
